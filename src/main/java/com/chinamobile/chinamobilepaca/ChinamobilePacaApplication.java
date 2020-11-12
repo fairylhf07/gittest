@@ -13,6 +13,7 @@ public class ChinamobilePacaApplication {
         System.out.println("git测试1111111111111111111111111");
         System.out.println("git测试2222222222222222222222222");
         System.out.println("git测试3333333333333333333333333");
+        System.out.println("git测试4444444444444444444444444");
     }
 
 }

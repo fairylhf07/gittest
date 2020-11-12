@@ -12,6 +12,7 @@ public class ChinamobilePacaApplication {
         SpringApplication.run(ChinamobilePacaApplication.class, args);
         System.out.println("git测试1111111111111111111111111");
         System.out.println("git测试2222222222222222222222222");
+        System.out.println("git测试3333333333333333333333333");
     }
 
 }
